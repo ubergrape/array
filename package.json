@@ -22,7 +22,6 @@
     "to-function": "^1.2.1"
   },
   "browser": {
-    "to-function": "component-to-function",
     "isArray": "isarray"
   },
   "scripts": {
