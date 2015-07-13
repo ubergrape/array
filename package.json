@@ -18,7 +18,10 @@
   "readmeFilename": "Readme.md",
   "dependencies": {
     "emitter-component": "~1.1.0",
-    "to-function": "~1.2.1"
+    "component-to-function": "ubergrape/component-to-function"
+  },
+  "browser": {
+    "to-function": "component-to-function"
   },
   "scripts": {
     "test": "make test"
