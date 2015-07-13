@@ -17,11 +17,13 @@
   "license": "MIT",
   "readmeFilename": "Readme.md",
   "dependencies": {
-    "emitter-component": "~1.1.0",
-    "component-to-function": "ubergrape/component-to-function"
+    "emitter-component": "^1.1.0",
+    "isarray": "0.0.1",
+    "to-function": "^1.2.1"
   },
   "browser": {
-    "to-function": "component-to-function"
+    "to-function": "component-to-function",
+    "isArray": "isarray"
   },
   "scripts": {
     "test": "make test"
